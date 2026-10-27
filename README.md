@@ -1,4 +1,4 @@
-# CTF Writeups — Rayan Mejri (bangaalderson)
+# CTF Writeups - Rayan Mejri (bangaalderson)
 
 Hey, I'm bangaalderson, a cybersecurity enthusiast and CTF player from Tunisia.
 I enjoy breaking things, understanding how they work under the hood,
@@ -6,7 +6,7 @@ and occasionally building challenges that make others suffer (in a fun way).
 
 ## What's this repo?
 
-This is my personal collection of CTF writeups — both for challenges
+This is my personal collection of CTF writeups, both for challenges
 I solve and challenges I create myself.
 
 I don't just want to dump a working exploit and call it a day.
